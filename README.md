@@ -3,6 +3,12 @@
 I'm trying to figure out how to set `include_path` when running PHPStan,
 so that PHPStan recognizes functions `require`d from files in `includes/`.
 
+## Solution
+
+See #2.
+
+## Testing of original issue
+
 Here's what I get in my minimal testing:
 
 ## Using `php.ini`
